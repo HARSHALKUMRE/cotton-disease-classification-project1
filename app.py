@@ -12,7 +12,6 @@ from tensorflow.keras.applications.densenet import preprocess_input
 from werkzeug.utils import secure_filename
 
 
-
 #load model
 model =load_model(os.path.join("model", "model.h5"))
 
