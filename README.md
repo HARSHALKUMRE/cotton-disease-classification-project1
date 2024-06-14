@@ -35,7 +35,7 @@ This model achieves 92.7% top-5 test accuracy on the ImageNet dataset which cont
 ## Confusion Matrix
 <img src="https://github.com/shubhkirti123/cotton-disease-classification-project/blob/main/assets/ConfusionMatrix.png?raw=true" width=50% height=50%>
 
-## Project Flow
+## Project UI Flow
 <img src="https://github.com/shubhkirti123/cotton-disease-classification-project/blob/main/assets/FlowDiagramofTheSystem.png?raw=true">
 
 ## Tech Stack Used
